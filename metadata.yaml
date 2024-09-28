@@ -5,12 +5,17 @@ contributor:
     agent_name: Hall, Clayton Morris
     gutenberg_agent_id: '57499'
     url: http://www.gutenberg.org/2009/agents/57499
+covers:
+- cover_type: archival
+  image_path: 74423-h/images/cover.png
 creator:
   author:
     agent_name: Damascus, Nicolaus of
     gutenberg_agent_id: '57498'
     url: http://www.gutenberg.org/2009/agents/57498
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74423#Nicolaus-of-Damascus-life-of-Augustus-b-Translated-with-a-commentary
 gutenberg_issued: '2024-09-16'
 gutenberg_type: Text
 identifiers:
